@@ -6,6 +6,12 @@ This feedreader is a web-based application that reads RSS feeds and keeps you up
 - Clone or download the repository and open the index.html file in your favorite browser
 - There you can see the updated articles from Udacity, CSS Tricks, HTML5 Rocks, and Linear Digressions
 
+## Code Dependencies
+- Google Feed API
+- Jasmine
+- jQuery
+- Handlebars JS
+
 ## Websites Used In App
 - [Udacity Blog](https://blog.udacity.com/)
 - [CSS Tricks](https://css-tricks.com/)
